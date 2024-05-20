@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog posts # blog_name will be displayed in your blog page
-blog_description: Post on different platforms
+blog_description: Collection of posts on different platforms
 permalink: /blog/:year/:title/
 lsi: true # produce an index for related posts
 
@@ -181,7 +181,7 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 

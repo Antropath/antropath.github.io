@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  <span class="font-weight-bold">AI/ML</span> @ AWS <span class="font-weight-bold">•</span> PhD in Quantum Physics <span class="font-weight-bold">
+subtitle: <span class="font-weight-bold">AI/ML</span> @ <a href="https://aws.amazon.com/"> AWS </a> <span class="font-weight-bold"> • </span> PhD in Quantum Physics <span class="font-weight-bold"> • </span>  Previously <a href="https://faculty.ai/"> Faculty </a>
 
 profile:
   align: right
@@ -15,8 +15,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am AI/ML lead consultant at [AWS Professional Services](https://aws.amazon.com/professional-services/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I help the largest customers understand the value of their data, define an AI/ML strategy, build their ML teams, develop ML solutions and deploy them at scale.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My main ML interests are in probabilistic modelling, time series forecasting and physics-related ML. However, I also get hands-on with the (many, many, many) other aspects required to make ML work in the real world - from data engineering, DevOps/MLOps to application development and people & process changes.
+
+I regularly share my experience on [LinkedIn](https://www.linkedin.com/in/davidsauerwein/). My thought leadership & technical content is listed in the [blog](/blog) section. For example, I am co-author of the blogs introducing the AWS Digital Twin Framework and wrote about how ML best practices for quantum computing.
+
+Previously, I worked at [Faculty](https://faculty.ai/) in London as a Data Scientist. Before that I completed my PhD in theoretical physics at the [University of Innsbruck](https://www.uibk.ac.at/sp-physik/index.html.en) and the [Max Planck Institue for Quantum Optics](https://www.mpq.mpg.de/en), focussing on quantum information & computation.
