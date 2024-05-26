@@ -11,7 +11,7 @@ profile:
   more_info:
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}" 
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -24,7 +24,6 @@ I have led projects in many areas of applied ML (including CV, tabular ML, forec
 I particularly enjoy working at the intersection of different areas in ML, or of ML with other fields. Examples are my work on Digital Twins or quantum computing (see [blog](/blog))
 
 I also get hands-on with the (many) other aspects required to make ML work in the real world - from data engineering, DevOps/MLOps to application development and people & process changes.
-
 
 I regularly share my experience on [LinkedIn](https://www.linkedin.com/in/davidsauerwein/) and in [blog](/blog) posts. For example, I am co-author of the blogs introducing the AWS Digital Twin Framework and of posts showing how best practices from ML can be used in quantum computing.
 
