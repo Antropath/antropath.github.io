@@ -21,7 +21,7 @@ I help the largest AWS customers define an AI/ML strategy, build their ML teams,
 
 I have led projects in many areas of applied ML (including CV, tabular ML, forecasting, explainability, Generative AI, optimization) and industries (including manufacturing & industrials, automotive, health care & life sciences, government).
 
-I particularly enjoy working at the intersection of different areas in ML, or of ML with other fields. Examples are my work on Digital Twins or quantum computing (see [blog](/blog).)
+I particularly enjoy working at the intersection of different areas in ML, or of ML with other fields. Examples are my work on Digital Twins or quantum computing (see [blog](/blog).).
 
 I also get hands-on with the (many) other aspects required to make ML work in the real world - from data engineering, DevOps/MLOps to application development and people & process changes.
 
