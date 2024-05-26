@@ -26,6 +26,6 @@ I particularly enjoy working at the intersection of different areas in ML, or of
 I also get hands-on with the (many) other aspects required to make ML work in the real world - from data engineering, DevOps/MLOps to application development and people & process changes.
 
 
-I regularly share my experience on [LinkedIn](https://www.linkedin.com/in/davidsauerwein/) and in [blog](/blog) posts. For example, I am co-author of the blogs introducing the AWS Digital Twin Framework and demonstrated how best practices from ML can be used in quantum computing.
+I regularly share my experience on [LinkedIn](https://www.linkedin.com/in/davidsauerwein/) and in [blog](/blog) posts. For example, I am co-author of the blogs introducing the AWS Digital Twin Framework and of posts showing how best practices from ML can be used in quantum computing.
 
 Previously, I worked at [Faculty](https://faculty.ai/) in London as a Data Scientist. Before that I completed my PhD in theoretical physics at the [University of Innsbruck](https://www.uibk.ac.at/sp-physik/index.html.en) and the [Max Planck Institue for Quantum Optics](https://www.mpq.mpg.de/en), focussing on quantum information & computation. You can find my papers on [Google Scholar](https://scholar.google.com/citations?user=5yn1bREAAAAJ&hl=en).
