@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://antropath.github.io/sitemap.xml
+Sitemap: https://davidsauerwein.com/sitemap.xml
