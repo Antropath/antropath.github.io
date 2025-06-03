@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: []
-tags: aws ml partner architecture digitaltwins
+tags: aws ml ai partner architecture digitaltwins
 external_source: AWS Partner Network Blog
 title: "Using Digital Twins to Drive Electric Vehicle Battery Insights with MHP and AWS"
 description: Build self-managed battery models tailored to individual entities using micro services and Bayesian calibration techniques.

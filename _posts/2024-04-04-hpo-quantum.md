@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: []
-tags: aws ml quantum code
+tags: aws ml ai quantum code
 external_source: AWS Quantum Technologies Blog
 title: Hyperparameter optimization for quantum machine learning with Amazon Braket
 description: Use best practices from machine learning to improve quantum experiment management and hyperparameter optimization.

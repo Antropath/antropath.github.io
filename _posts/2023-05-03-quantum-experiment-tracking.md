@@ -1,7 +1,7 @@
 ---
 draft: false
 categories: []
-tags: aws ml quantum code
+tags: aws ml ai quantum code
 external_source: AWS Quantum Technologies Blog
 title: Tracking quantum experiments with Amazon Braket Hybrid Jobs and Amazon SageMaker Experiments
 description: Use best practices from machine learning to improve quantum experiment tracking.
