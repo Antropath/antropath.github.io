@@ -25,6 +25,6 @@ I particularly enjoy working at the intersection of different ML domains or the 
 
 I also get hands-on with the many other aspects required to make ML work in the real world, from data engineering, DevOps/MLOps to application development and people and process changes.
 
-I regularly share my experience on [LinkedIn](https://www.linkedin.com/in/davidsauerwein/) and in [blog](/blog) posts. For example, I am co-author of the blogs introducing the AWS Digital Twin Framework and of posts showing how best practices from ML can be used in quantum computing.
+I regularly share my experience on [LinkedIn](https://www.linkedin.com/in/davidsauerwein/) with 27k+ followers and in [blog](/blog) posts. For example, I am co-author of the blogs introducing the AWS Digital Twin Framework and of posts showing how best practices from ML can be used in quantum computing. Together with friends I made some of my methods to stay up to date on AI available to everyone on [curAIted.dev](https://curaited.dev) - a website with high-quality insights into latest AI developments, collected by AI and curated by human experts.
 
 Previously, I worked at [Faculty](https://faculty.ai/) in London as a Data Scientist. Before that I completed my PhD in theoretical physics at the [University of Innsbruck](https://www.uibk.ac.at/sp-physik/index.html.en) and the [Max Planck Institue for Quantum Optics](https://www.mpq.mpg.de/en), focussing on quantum information & computation. You can find my papers on [Google Scholar](https://scholar.google.com/citations?user=5yn1bREAAAAJ&hl=en).
