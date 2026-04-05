@@ -19,7 +19,7 @@ I am a Principal AI/ML Engineer at [AWS Professional Services](https://aws.amazo
 
 I help the largest AWS customers define AI strategies, build AI teams, develop solutions and deploy them at scale.
 
-I have built MLOps, generative AI and agentic AI platforms for enterprise customers and helped them develop use cases on top of them. My work spans projects across various areas of applied AI, including computer vision, tabular ML, forecasting, explainability, agentic AI, and optimization, as well as diverse industries such as manufacturing and industrials, automotive, healthcare and life sciences, and government.
+I have led the development of central AI platforms for some of the largest enterprises in the world to accelerate their AI transformation. This included  building and onboarding solutions across all core areas of applied AI, including computer vision, tabular ML, forecasting, explainability, agentic AI, and optimization.
 
 I particularly enjoy working at the intersection of different AI domains or the intersection of AI with other fields. Examples include my work on digital twins and quantum computing (see [blog](/blog)).
 
